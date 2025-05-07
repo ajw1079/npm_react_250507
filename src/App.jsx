@@ -4,7 +4,7 @@ import LinkCp from './components/LinkCp';
 import ListCp from './components/ListCp';
 
 function App() {
-  const menuArr = ['intro', 'skill', 'portfoilo', 'contact'];
+  const menuArr = ['intro', 'skill-01', 'portfoilo', 'contact'];
 
   return (
     <div className="App">
