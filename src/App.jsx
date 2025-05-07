@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import LinkCp from './components/LinkCp';
 import ListCp from './components/ListCp';
